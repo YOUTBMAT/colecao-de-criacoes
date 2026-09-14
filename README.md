@@ -1,13 +1,13 @@
 # 🎨 Coleção de Criações — Arte Generativa & Programação Criativa
 
-Este repositório reúne uma coleção de experimentos visuais e projetos interativos desenvolvidos em **Processing**. O objetivo desta coleção é explorar a interseção entre algoritmos, matemática, física e arte visual fora do contexto estritamente corporativo[cite: 1].
+Este repositório reúne uma coleção de experimentos visuais e projetos interativos desenvolvidos em **Processing**[cite: 1]. O objetivo é explorar a interseção entre algoritmos, matemática, física e arte visual fora do contexto estritamente corporativo[cite: 1].
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 * **Processing** (Java Mode / Creative Coding)[cite: 1]
-* **Lógica Algorítmica:** Perlin Noise, Vetores de Física (PVector), Transformações Geométricas e Interatividade.
+* **Lógica Algorítmica:** Perlin Noise, Vetores de Física (`PVector`), Transformações Geométricas e Interatividade.
 
 ---
 
@@ -38,7 +38,7 @@ Uma grade de polígonos e formas geométricas que reagem em escala e rotação d
 
 ![Matriz Geometrica](assets/matriz_geometrica.gif)
 
-* **Conceito:** Cálculo de distâncias euclidianas e rotações matriciais (`pushMatrix`/`popMatrix`).
+* **Conceito:** Cálculo de distâncias euclidianas e rotações matriciais (`pushMatrix` / `popMatrix`).
 * **Interatividade:** Distorção visual interativa baseada na distância do cursor.
 
 ---
@@ -47,5 +47,8 @@ Uma grade de polígonos e formas geométricas que reagem em escala e rotação d
 
 1. Baixe e instale o [Processing IDE](https://processing.org/download).
 2. Clone este repositório:
-   ```bash
-   git clone [https://github.com/YOUTBMAT/colecao-de-criacoes.git](https://github.com/YOUTBMAT/colecao-de-criacoes.git)
+   `git clone https://github.com/YOUTBMAT/colecao-de-criacoes.git`[cite: 1]
+3. Abra qualquer pasta `.pde` no Processing e pressione **Run (Ctrl + R)**.
+
+---
+*Desenvolvido por Mateus Weiss Medeiros*[cite: 1]
