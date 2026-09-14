@@ -1,12 +1,12 @@
 # 🎨 Coleção de Criações — Arte Generativa & Programação Criativa
 
-Este repositório reúne uma coleção de experimentos visuais e projetos interativos desenvolvidos em **Processing**[cite: 1]. O objetivo é explorar a interseção entre algoritmos, matemática, física e arte visual fora do contexto estritamente corporativo[cite: 1].
+Este repositório reúne uma coleção de experimentos visuais e projetos interativos desenvolvidos em **Processing**. O objetivo é explorar a interseção entre algoritmos, matemática, física e arte visual fora do contexto estritamente corporativo.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Processing** (Java Mode / Creative Coding)[cite: 1]
+* **Processing** (Java Mode / Creative Coding)
 * **Lógica Algorítmica:** Perlin Noise, Vetores de Física (`PVector`), Transformações Geométricas e Interatividade.
 
 ---
@@ -47,8 +47,8 @@ Uma grade de polígonos e formas geométricas que reagem em escala e rotação d
 
 1. Baixe e instale o [Processing IDE](https://processing.org/download).
 2. Clone este repositório:
-   `git clone https://github.com/YOUTBMAT/colecao-de-criacoes.git`[cite: 1]
+   `git clone https://github.com/YOUTBMAT/colecao-de-criacoes.git`
 3. Abra qualquer pasta `.pde` no Processing e pressione **Run (Ctrl + R)**.
 
 ---
-*Desenvolvido por Mateus Weiss Medeiros*[cite: 1]
+*Desenvolvido por Mateus Weiss Medeiros*
